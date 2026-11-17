@@ -14,14 +14,20 @@
 
 <br>
 
-- 🎀 **Final Project** — school project, in progress
-- 🧸 **Capstone** — in progress
-- 🌱 **Backend** — learning a little more every day
-
-<br>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F8C8DC&height=2&width=600" width="100%" />
+  <table style="border-collapse: collapse; border: 2px solid #F8C8DC; border-radius: 10px; background-color: #FFF0F5; padding: 10px;">
+    <tr>
+      <td align="center" style="padding: 10px 20px;">
+        🎀 <b>Final Project</b> <br> <i>school project, in progress</i>
+      </td>
+      <td align="center" style="padding: 10px 20px;">
+        🧸 <b>Capstone</b> <br> <i>in progress</i>
+      </td>
+      <td align="center" style="padding: 10px 20px;">
+        🌱 <b>Backend</b> <br> <i>learning a little more every day</i>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -33,8 +39,9 @@
   </a>
 </div>
 
-<br>
+<br><br>
 
+<!-- New Cute Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=F8C8DC,FFC0CB,E6E6FA&height=120&section=footer&text=thank%20you%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" />
 </div>
