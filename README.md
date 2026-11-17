@@ -14,20 +14,12 @@
 
 <br>
 
+<!-- Cute Project Cards using images -->
 <div align="center">
-  <table style="border-collapse: collapse; border: 2px solid #F8C8DC; border-radius: 10px; background-color: #FFF0F5; padding: 10px;">
-    <tr>
-      <td align="center" style="padding: 10px 20px;">
-        🎀 <b>Final Project</b> <br> <i>school project, in progress</i>
-      </td>
-      <td align="center" style="padding: 10px 20px;">
-        🧸 <b>Capstone</b> <br> <i>in progress</i>
-      </td>
-      <td align="center" style="padding: 10px 20px;">
-        🌱 <b>Backend</b> <br> <i>learning a little more every day</i>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/🎀_Final_Project-school_project,_in_progress-F8C8DC?style=for-the-badge&labelColor=FFF0F5&color=F8C8DC" />
+  <img src="https://img.shields.io/badge/🧸_Capstone-in_progress-F8C8DC?style=for-the-badge&labelColor=FFF0F5&color=F8C8DC" />
+  <br><br>
+  <img src="https://img.shields.io/badge/🌱_Backend-learning_a_little_more_every_day-F8C8DC?style=for-the-badge&labelColor=FFF0F5&color=F8C8DC" />
 </div>
 
 <br>
@@ -41,7 +33,7 @@
 
 <br><br>
 
-<!-- New Cute Footer -->
+<!-- Fixed Pink Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=F8C8DC,FFC0CB,E6E6FA&height=120&section=footer&text=thank%20you%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=120&section=footer&text=thank%20you%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" />
 </div>
