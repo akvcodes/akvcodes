@@ -1,6 +1,6 @@
-# hi, i'm Alessandra! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+# hi, i'm <span style="color:#F8C8DC;">Alessandra</span>! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
-**4th year BSIT student** ⋆ backend learner ⋆ still discovering
+<span style="color:#F8C8DC;">**4th year BSIT student** ⋆ backend learner ⋆ still discovering</span>
 
 <br>
 
@@ -12,5 +12,5 @@ I'm currently figuring things out, one project at a time. 𖹭
 
 <br>
 
-### 💌 say hi!
+### <span style="color:#F8C8DC;">💌 say hi!</span>
 [alessandrakatevalle@gmail.com](mailto:alessandrakatevalle@gmail.com)
