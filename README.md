@@ -1,7 +1,12 @@
-# hi, i'm Alessandra! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+<h1 align="center">hi, i'm Alessandra! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧</h1>
 
-![name](https://img.shields.io/badge/Alessandra-✨-F8C8DC?style=flat-square&labelColor=F8C8DC&color=F8C8DC)
-![status](https://img.shields.io/badge/4th_year_BSIT_student_⋆_backend_learner_⋆_still_discovering-F8C8DC?style=flat-square&labelColor=white&color=F8C8DC&logoColor=black)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F8C8DC&height=3&width=600" width="100%" />
+</div>
+
+<p align="center">
+  <b>4th year BSIT student ⋆ backend learner ⋆ still discovering</b>
+</p>
 
 <br>
 
@@ -12,6 +17,10 @@ I'm currently figuring things out, one project at a time. 𖹭
 - 🌱 **Backend** — learning a little more every day
 
 <br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F8C8DC&height=3&width=600" width="100%" />
+</div>
 
 ### 💌 say hi!
 [alessandrakatevalle@gmail.com](mailto:alessandrakatevalle@gmail.com)
