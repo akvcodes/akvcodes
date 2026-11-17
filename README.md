@@ -1,19 +1,16 @@
-# 𝓐𝓵𝓮𝓼𝓼𝓪𝓷𝓭𝓻𝓪 ⋆｡𖦹°⭒˚｡⋆
+# hi, i'm Alessandra! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
-───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ─────
-
-**4th year BSIT ⋆ backend learner** 
-☾⋆⁺₊🎮✩°｡ still discovering, one project at a time :‹ 
+**4th year BSIT student** ⋆ backend learner ⋆ still discovering
 
 <br>
 
-𖧷₊˚˖𓍢ִ🍓✧˚. what i'm working on ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
-- 🎀 **Final Project** ⋆ school project, in progress
-- 🎀 **Capstone** ⋆ in progress
+I'm currently figuring things out, one project at a time. 𖹭
+
+- 🎀 **Final Project** — school project, in progress
+- 🧸 **Capstone** — in progress
+- 🌱 **Backend** — learning a little more every day
 
 <br>
 
-───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ─────
-
-**say hi!** 🎧₊˚⊹ (っ˶ ˘ ᵕ˘)ˆᵕ ˆ˶ς)
+### 💌 say hi!
 [alessandrakatevalle@gmail.com](mailto:alessandrakatevalle@gmail.com)
