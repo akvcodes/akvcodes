@@ -1,16 +1,17 @@
-<h1>hi, i'm <span style="color:#F8C8DC;">Alessandra</span>! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧</h1>
+# hi, i'm Alessandra! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
-<p><b style="color:#F8C8DC;">4th year BSIT student</b> ⋆ backend learner ⋆ still discovering</p>
+![name](https://img.shields.io/badge/Alessandra-✨-F8C8DC?style=flat-square&labelColor=F8C8DC&color=F8C8DC)
+![status](https://img.shields.io/badge/4th_year_BSIT_student_⋆_backend_learner_⋆_still_discovering-F8C8DC?style=flat-square&labelColor=white&color=F8C8DC&logoColor=black)
 
 <br>
 
 I'm currently figuring things out, one project at a time. 𖹭
 
-- 🎀 <b>Final Project</b> — school project, in progress
-- 🧸 <b>Capstone</b> — in progress
-- 🌱 <b>Backend</b> — learning a little more every day
+- 🎀 **Final Project** — school project, in progress
+- 🧸 **Capstone** — in progress
+- 🌱 **Backend** — learning a little more every day
 
 <br>
 
-<h3><span style="color:#F8C8DC;">💌 say hi!</span></h3>
-<a href="mailto:alessandrakatevalle@gmail.com">alessandrakatevalle@gmail.com</a>
+### 💌 say hi!
+[alessandrakatevalle@gmail.com](mailto:alessandrakatevalle@gmail.com)
